@@ -1,0 +1,12 @@
+﻿'Encryption Task code.exe' (Win32): Loaded 'C:\Users\DELL\Documents\Visual Studio 2012\Projects\Encryption Task code\Debug\Encryption Task code.exe'. Symbols loaded.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp110d.dll'. Symbols loaded.
+'Encryption Task code.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcr110d.dll'. Symbols loaded.
+The thread 0x492c has exited with code -1073741510 (0xc000013a).
+The thread 0x28c0 has exited with code -1073741510 (0xc000013a).
+The thread 0x48d4 has exited with code -1073741510 (0xc000013a).
+The thread 0xc28 has exited with code -1073741749 (0xc000004b).
+The program '[13692] Encryption Task code.exe' has exited with code -1073741510 (0xc000013a).
